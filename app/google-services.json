@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215696392766",
+    "firebase_url": "https://antojitos-d33e8.firebaseio.com",
+    "project_id": "antojitos-d33e8",
+    "storage_bucket": "antojitos-d33e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215696392766:android:c104a1abea956642",
+        "android_client_info": {
+          "package_name": "com.nabenik.antojitos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215696392766-7qhucd7v86n58al8l9fvigvmnd056ns4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nabenik.antojitos",
+            "certificate_hash": "ad24012126e10bfd54d4f74fd94fcdd569f3d34d"
+          }
+        },
+        {
+          "client_id": "215696392766-tcu4aoicf5n82i2hf852f01s43enqbus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-LzXyvIz8W8oYeyPFKdnaT7CMV9Yi1NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215696392766-tcu4aoicf5n82i2hf852f01s43enqbus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
