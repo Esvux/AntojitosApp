@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Antojitos</string>
+    <string name="facebook_application_id">2065507973505872</string>
+    <string name="facebook_login_protocol_scheme">fb2065507973505872</string>
 </resources>
