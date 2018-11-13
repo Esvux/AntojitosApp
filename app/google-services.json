@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "215696392766-kkqtrg6haf0kd0pvj0sdts5i27489n99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nabenik.antojitos",
+            "certificate_hash": "9ae7b99fbb9d4fc6e519971879476bdfc84f4ff0"
+          }
+        },
+        {
           "client_id": "215696392766-tcu4aoicf5n82i2hf852f01s43enqbus.apps.googleusercontent.com",
           "client_type": 3
         }
