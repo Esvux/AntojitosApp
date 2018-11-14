@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
                 doLogin();
             }
         });
-
         findViewById(R.id.btn_logout).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -74,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
                         .createSignInIntentBuilder()
                         .setAvailableProviders(providers)
                         .setTheme(R.style.NoActionBar)
+                        .setLogo(R.drawable.antojitos)
                         .build(),
                 RC_SIGN_IN
         );
