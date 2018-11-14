@@ -12,6 +12,16 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="AppTheme.WithLogo" parent="AppTheme">
+        <item name="actionBarStyle">@style/CustomActionBar</item>
+    </style>
+
+    <style name="CustomActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="background">@color/primaryColor</item>
+        <item name="logo">@drawable/logo_antojitos</item>
+        <item name="displayOptions">useLogo|showHome</item>
+    </style>
+
     <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
         <item name="android:windowBackground">@drawable/background_splash</item>
     </style>
